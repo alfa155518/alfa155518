@@ -12,7 +12,7 @@
 
 - 🏢 I'm a Front End Developer
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with React Js, JavaScript, Typescript , CSS3, Html5, Bootstrap, Tailwind.css or anything related to web development.
+- 💬 Ask me about my experience with React Js, JavaScript, Typescript , CSS3, Sass, Html5, Bootstrap, Tailwind.css or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
