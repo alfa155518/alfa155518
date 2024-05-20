@@ -10,6 +10,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+- 🌱 I’m currently learning Node JS
 - 🏢 I'm a Front End Developer
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with React Js, JavaScript, Typescript , CSS3, Sass, Html5, Bootstrap, Tailwind.css or anything related to web development.
@@ -23,6 +24,7 @@
 ### 🛠 My Skills 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![PUGJS](https://img.shields.io/badge/pug-%23A86454?style=for-the-badge&logo=pug&logoColor=white&logoSize=auto)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/sass-%231572B6.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,6 +32,13 @@
 ![Typescript](https://img.shields.io/badge/Typescript-%23323330.svg?style=for-the-badge&logo=Typescript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NODEJS](https://img.shields.io/badge/nodeJS-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![EXPRESSJS](https://img.shields.io/badge/Expreesjs-%23000000?style=for-the-badge&logo=express&logoColor=white&logoSize=auto)
+![MONGODB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MONGOOSE](https://img.shields.io/badge/mongoose-%23880000?style=for-the-badge&logo=mongoose&logoColor=white&logoSize=auto)
+
+
+
 
 ### 🛠 I Used Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
