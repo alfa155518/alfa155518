@@ -18,8 +18,7 @@
 
 
 ### Connect with Me :
-
-<a href="https://linkedin.com/in/ahmed-hassop/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Hassob-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ahmed-hassop/" target="_blank"><img  src="https://img.shields.io/badge/-Ahmed%20Hassob-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.facebook.com/Alfa01555" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Hassob-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 ### 🛠 My Skills 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
