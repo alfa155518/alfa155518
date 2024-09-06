@@ -35,7 +35,8 @@
 ![EXPRESSJS](https://img.shields.io/badge/Expreesjs-%23000000?style=for-the-badge&logo=express&logoColor=white&logoSize=auto)
 ![MONGODB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MONGOOSE](https://img.shields.io/badge/mongoose-%23880000?style=for-the-badge&logo=mongoose&logoColor=white&logoSize=auto)
-
+![MONGOOSE](https://img.shields.io/badge/mongoose-%23880000?style=for-the-badge&logo=mongoose&logoColor=white&logoSize=auto)
+![graphql](https://img.shields.io/badge/graphql-%23E10098?style=for-the-badge&logo=graphql&label=graphql)
 
 
 
