@@ -10,10 +10,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🌱 I’m currently learning Node JS
-- 🏢 I'm a Front End Developer
+- 🌱 I’m currently learning nextjs 
+- 🏢 I'm a mernstack developer
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with React Js, JavaScript, Typescript , CSS3, Sass, Html5, Bootstrap, Tailwind.css or anything related to web development.
+- 💬 Ask me about my experience with React Js, JavaScript , CSS3, Sass, Html5, Bootstrap, Tailwind.css, Nodejs,  or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
