@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?&height=45&lines=Mernstack+Developer+;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?&height=45&lines=fullstack+Developer+;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG" /></a>
 </p> 
 
 - 🌱 I’m currently learning php & laravel 
