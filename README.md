@@ -10,8 +10,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?&height=45&lines=Mernstack+Developer+;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG" /></a>
 </p> 
 
-- 🌱 I’m currently learning nextjs 
-- 🏢 I'm a mernstack developer
+- 🌱 I’m currently learning php & laravel 
+- 🏢 I'm a full stack developer
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with React Js, JavaScript , CSS3, Sass, Html5, Bootstrap, Tailwind.css, Nodejs,  or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
